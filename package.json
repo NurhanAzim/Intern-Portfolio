@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "engine": {
+  "engines": {
     "node": "18.x"
   },
   "scripts": {
@@ -16,7 +16,7 @@
     "eslint": "8.44.0",
     "eslint-config-next": "13.4.9",
     "next": "13.4.9",
-    "pdfjs-dist": "^3.8.162",
+    "pdfjs-dist": "^2.16.105",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-icons": "^4.10.1",
