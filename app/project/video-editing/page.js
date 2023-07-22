@@ -1,10 +1,5 @@
 'use client';
 
-import Iframe from 'react-iframe';
-import { CldVideoPlayer } from 'next-cloudinary';
-
-import placeholder from './../../../public/placeholder.jpeg';
-
 export default function VideoEditing() {
     return (
         <>
