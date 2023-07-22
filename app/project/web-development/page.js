@@ -19,8 +19,8 @@ export default function WebDevelopment() {
                 A landing page for in-house developed software from Ledakan Digital
               </p>
               <h4 className="py-4 text-amber-600">Technologies</h4>
-              <p className="text-gray-300 py-1 dark:text-gray-300">Wordpress</p>
-              <p className="text-gray-300 py-1 dark:text-gray-300">Elementor</p>
+              <p className="text-gray-300 py-1 dark:text-gray-300">{'Wordpress'}</p>
+              <p className="text-gray-300 py-1 dark:text-gray-300">{'Elementor'}</p>
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 bg-gray-800 dark:bg-white flex-1">
               <Image src="/../public/website/website2.png" width={300} height={400} className='mx-auto' />
@@ -31,9 +31,9 @@ export default function WebDevelopment() {
                 A portfolio website to showcase my works during the internship period
               </p>
               <h4 className="py-4 text-amber-600">Technologies</h4>
-              <p className="text-gray-300 py-1 dark:text-gray-300">Next.js (React)</p>
-              <p className="text-gray-300 py-1 dark:text-gray-300">Tailwind</p>
-              <p className="text-gray-300 py-1 dark:text-gray-300">Vercel</p>
+              <p className="text-gray-300 py-1 dark:text-gray-300">{'Next.js (React)'}</p>
+              <p className="text-gray-300 py-1 dark:text-gray-300">{'Tailwind'}</p>
+              <p className="text-gray-300 py-1 dark:text-gray-300">{'Vercel'}</p>
             </div>
           </div>
         </section>
