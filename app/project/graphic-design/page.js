@@ -31,16 +31,16 @@ export default function GraphicDesign() {
                             <div className='overflow-hidden flex-1'>
                                 <Swiper pagination={true} modules={[Pagination]} className='h-full'>
                                     <SwiperSlide>
-                                        <Image src={image11} objectFit='cover'  />
+                                         <Image alt='' src={image11} objectFit='cover'  />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <Image src={image12} objectFit='cover'  />
+                                         <Image alt='' src={image12} objectFit='cover'  />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <Image src={image13} objectFit='cover'  />
+                                         <Image alt='' src={image13} objectFit='cover'  />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <Image src={image14} objectFit='cover'  />
+                                         <Image alt='' src={image14} objectFit='cover'  />
                                     </SwiperSlide>
                                 </Swiper>
                             </div>
@@ -49,24 +49,24 @@ export default function GraphicDesign() {
                             </h4>
                         </div>
                         <div className='border-dashed border-8 border-amber-500 py-5 px-5 basis-1/3 flex-1 flex flex-col lg:flex-row'>
-                            <Image src={image2} width={'100%'} height={'100%'} objectFit='cover' className='overflow-hidden flex-1'></Image>
+                             <Image alt='' src={image2} width={'100%'} height={'100%'} objectFit='cover' className='overflow-hidden flex-1'></Image>
                             <h4 className='flex-1 py-4 lg:px-4  text-gray-300 lg:text-xl dark:text-gray-300'>
 Deliver exceptional customer service in your e-commerce store by responding promptly, offering various communication channels, maintaining clarity in responses, providing detailed product information, and personalizing the customer experience.</h4>
                         </div>
                         <div className='border-dashed border-8 border-amber-500 py-5 px-5 basis-1/3 flex-1 flex flex-col lg:flex-row'>
-                            <Image src={image3} width={'100%'} height={'100%'} objectFit='cover' className='overflow-hidden flex-1' />
+                             <Image alt='' src={image3} width={'100%'} height={'100%'} objectFit='cover' className='overflow-hidden flex-1' />
                             <h4 className='flex-1 py-4 lg:px-4  text-gray-300 lg:text-xl dark:text-gray-300'>Maximize your brand's presence on Facebook by incorporating sharing buttons, sharing engaging visual content, utilizing lookalike audiences, encouraging fan posts, posting regularly, engaging with comments and messages, integrating Messenger into your CRM, sharing humorous content, and utilizing interactive content.</h4>
                         </div>
                         <div className='border-dashed border-8 border-amber-500 py-5 px-5 basis-1/3 flex-1 flex flex-col lg:flex-row'>
-                            <Image src={image4} width={'100%'} height={'100%'} objectFit='cover' className='overflow-hidden flex-1' />
+                             <Image alt='' src={image4} width={'100%'} height={'100%'} objectFit='cover' className='overflow-hidden flex-1' />
                             <h4 className='flex-1 py-4 lg:px-4  text-gray-300 lg:text-xl dark:text-gray-300'>Choose the best social media platforms for your e-commerce business, such as Facebook, Instagram, TikTok, and Twitter, to reach new audiences, showcase products, and drive sales.</h4>
                         </div>
                         <div className='border-dashed border-8 border-amber-500 py-5 px-5 basis-1/3 flex-1 flex flex-col lg:flex-row'>
-                            <Image src={image5} width={'100%'} height={'100%'} objectFit='cover' className='overflow-hidden flex-1' />
+                             <Image alt='' src={image5} width={'100%'} height={'100%'} objectFit='cover' className='overflow-hidden flex-1' />
                             <h4 className='flex-1 py-4 lg:px-4  text-gray-300 lg:text-xl dark:text-gray-300'>With regards to chatbot interactions, it is crucial to prioritize data privacy and security, which can be achieved through transparent data handling practices, robust encryption measures, and empowering users with control over their personal information.</h4>
                         </div>
                         <div className='border-dashed border-8 border-amber-500 py-5 px-5 basis-1/3 flex-1 flex flex-col lg:flex-row'>
-                            <Image src={image6} width={'100%'} height={'100%'} objectFit='cover' className='overflow-hidden flex-1' />
+                             <Image alt='' src={image6} width={'100%'} height={'100%'} objectFit='cover' className='overflow-hidden flex-1' />
                             <h4 className='flex-1 py-4 lg:px-4  text-gray-300 lg:text-xl dark:text-gray-300'>Enhance user satisfaction in chatbot interactions by incorporating a personal touch, utilizing user data to customize responses and cater to individual needs, while ensuring responsible and transparent use of data.</h4>
                         </div>
 
