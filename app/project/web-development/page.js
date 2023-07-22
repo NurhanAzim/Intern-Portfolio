@@ -1,6 +1,9 @@
 import Image from 'next/image';
 import Link from 'next/link';
 
+import website1 from './../../../public/website/website1.png';
+import website2 from './../../../public/website/website2.png';
+
 export default function WebDevelopment() {
   return (
     <>
@@ -11,7 +14,7 @@ export default function WebDevelopment() {
           </div>
           <div className="bg-black lg:px-10 lg:flex gap-10">
             <div className="text-center shadow-lg p-10 rounded-xl my-10 bg-gray-800 dark:bg-black flex-1">
-               <Image alt='' src="/../public/website/website1.png" width={300} height={400} className='mx-auto' />
+               <Image alt='' src={website1} width={300} height={400} className='mx-auto' />
 
               <Link href="https://salambot.xyz"><h3 className="text-lg text-red-400 font-medium pt-8 pb-2 ">Salambot Website</h3></Link>
 
@@ -23,7 +26,7 @@ export default function WebDevelopment() {
               <p className="text-gray-300 py-1 dark:text-gray-300">{'Elementor'}</p>
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 bg-gray-800 dark:bg-white flex-1">
-               <Image alt='' src="/../public/website/website2.png" width={300} height={400} className='mx-auto' />
+               <Image alt='' src={website2} width={300} height={400} className='mx-auto' />
               <h3 className="text-lg text-red-400 font-medium pt-8 pb-2 ">
                 Inter Portfolio (current website)
               </h3>
