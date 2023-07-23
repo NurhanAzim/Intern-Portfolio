@@ -10,9 +10,9 @@ export default function Navbar() {
               <li>
                 <BsFillMoonStarsFill onClick={() => setDarkMode(!darkMode)} className="cursor-pointer text-2xl dark:text-gray-300" />
               </li>
-              {/* <li>
-                <a className="bg-gradient-to-r from-red-500 to-yellow-400  font-sans px-4 py-2 rounded-lg ml-8" href={resume} target='_blank' rel="noopener noreferrer">Resume</a>
-              </li> */}
+              <li>
+                <a className="bg-gradient-to-r from-red-500 to-yellow-400  font-sans px-4 py-2 rounded-lg ml-8" href={'/Resume.pdf'} target='_blank' rel="noopener noreferrer">Resume</a>
+              </li>
             </ul>
           </nav>
     </>
