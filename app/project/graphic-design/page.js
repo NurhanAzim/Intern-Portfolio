@@ -5,7 +5,6 @@ import Image from 'next/image';
 
 import 'swiper/css';
 import 'swiper/css/pagination';
-import placeholder from './../../../public/placeholder.jpeg';
 import image11 from './../../../public/graphic design/1/1.png';
 import image12 from './../../../public/graphic design/1/2.png';
 import image13 from './../../../public/graphic design/1/3.png';

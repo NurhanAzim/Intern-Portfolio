@@ -12,7 +12,7 @@ export default function Home() {
         <section className=" min-h-screen">
           <div className="text-center p-5 ">
             <div className="relative mx-auto mt-5 bg-gradient-to-b from-red-500 to-yellow-400 rounded-full w-80 h-80 overflow-hidden md:h-90 md:w-90">
-               <Image  src={pp} alt="Avatar picture" layout="fill" objectFit="cover" className="" />
+               <Image  src={"/profile.png"} alt="Avatar picture" layout="fill" objectFit="cover" className="" />
             </div>
             <h1 className="text-5xl py-2 mb-5 text-red-500 font-sans">Welcome to my website!</h1>
             <p className="text-xl py-2  text-gray-300 font-sans dark:text-gray-300">I'm Azim Nurhan, an aspiring mobile application developer currently interning at <span className="text-amber-600 font-bold">Ledakan Digital Sdn. Bhd.</span></p>
