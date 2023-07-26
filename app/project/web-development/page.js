@@ -12,7 +12,7 @@ export default function WebDevelopment() {
           </div>
           <div className="bg-black lg:px-10 lg:flex gap-10">
 
-            //Salambot
+            {/* Salambot */}
             <div className="text-center shadow-lg p-10 rounded-xl my-10 bg-gray-800 dark:bg-black flex flex-col flex-1">
               <div className='flex flex-1 flex-row items-stretch justify-center'>
                 <Image alt='' src={"/website/website1.png"} width={300} height={400} className='mx-auto' />
@@ -34,7 +34,7 @@ export default function WebDevelopment() {
               </div>
             </div>
 
-            //Inter Portfolio
+            {/* Inter Portfolio */}
             <div className="text-center shadow-lg p-10 mb-0 rounded-xl my-10 bg-gray-800 dark:bg-white flex flex-col flex-1">
               <div className='flex flex-1 flex-row items-stretch justify-center'>
                 <Image alt='' src={"/website/website2.png"} width={300} height={400} className='mx-auto' />
