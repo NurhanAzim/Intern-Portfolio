@@ -11,13 +11,13 @@ import { FreeMode, Scrollbar, MouseWheel, Mousewheel } from 'swiper/modules';
 export default function ContentDevelopment() {
     return (
         <>
-            <main className="bg-black px-10">
+            <main className="bg-black sm:px-10">
                 <section>
                     <div className='lg:text-center'>
                         <h3 className="text-3xl py-1 text-red-400">Content Development</h3>
                     </div>
                     <div className="bg-black xl:px-10 lg:flex lg:flex-row lg:flex-wrap gap-10">
-                        <div className="text-center shadow-lg p-10 rounded-xl my-10 bg-gray-800 dark:bg-black flex-1 min-w-[550px] lg:w-auto min-h-[min-content]">
+                    <div className="text-center shadow-lg p-5 md:p-10 rounded-xl mt-10 mb-0 bg-gray-800 dark:bg-white flex-1 min-w-[420px] lg:w-auto min-h-[min-content]">
                             <Swiper
                                 direction='vertical'
                                 slidesPerView={'auto'}
@@ -53,7 +53,7 @@ export default function ContentDevelopment() {
                                 </SwiperSlide>
                             </Swiper>
                         </div>
-                        <div className="text-center shadow-lg p-10 rounded-xl my-10 bg-gray-800 dark:bg-white flex-1 min-w-[550px] lg:w-auto min-h-[min-content]">
+                        <div className="text-center shadow-lg p-5 md:p-10 rounded-xl mt-10 mb-0 bg-gray-800 dark:bg-white flex-1 min-w-[420px] lg:w-auto min-h-[min-content]">
                             <Swiper
                                 direction='vertical'
                                 slidesPerView={'auto'}
@@ -77,7 +77,7 @@ export default function ContentDevelopment() {
                                 </SwiperSlide>
                             </Swiper>
                         </div>
-                        <div className="text-center shadow-lg p-10 rounded-xl my-10 bg-gray-800 dark:bg-white flex-1 min-w-[550px] lg:w-auto min-h-[min-content]">
+                        <div className="text-center shadow-lg p-5 md:p-10 rounded-xl mt-10 mb-0 bg-gray-800 dark:bg-white flex-1 min-w-[420px] lg:w-auto min-h-[min-content]">
                             <Swiper
                                 direction='vertical'
                                 slidesPerView={'auto'}
@@ -103,7 +103,7 @@ export default function ContentDevelopment() {
                                 </SwiperSlide>
                             </Swiper>
                         </div>
-                        <div className="text-center shadow-lg p-10 rounded-xl my-10 bg-gray-800 dark:bg-white flex-1 min-w-[550px] lg:w-auto min-h-[min-content]">
+                        <div className="text-center shadow-lg p-5 md:p-10 rounded-xl mt-10 mb-0 bg-gray-800 dark:bg-white flex-1 min-w-[420px] lg:w-auto min-h-[min-content]">
                             <Swiper
                                 direction='vertical'
                                 slidesPerView={'auto'}
@@ -131,7 +131,7 @@ export default function ContentDevelopment() {
                                 </SwiperSlide>
                             </Swiper>
                         </div>
-                        <div className="text-center shadow-lg p-10 rounded-xl my-10 bg-gray-800 dark:bg-white flex-1 min-w-[550px] lg:w-auto min-h-[min-content]">
+                        <div className="text-center shadow-lg p-5 md:p-10 rounded-xl mt-10 mb-0 bg-gray-800 dark:bg-white flex-1 min-w-[420px] lg:w-auto min-h-[min-content]">
                             <Swiper
                                 direction='vertical'
                                 slidesPerView={'auto'}
@@ -151,7 +151,7 @@ export default function ContentDevelopment() {
                                 </SwiperSlide>
                             </Swiper>
                         </div>
-                        <div className="text-center shadow-lg p-10 rounded-xl my-10 bg-gray-800 dark:bg-white flex-1 min-w-[550px] lg:w-auto min-h-[min-content]">
+                        <div className="text-center shadow-lg p-5 md:p-10 rounded-xl mt-10 mb-0 bg-gray-800 dark:bg-white flex-1 min-w-[420px] lg:w-auto min-h-[min-content]">
                             <Swiper
                                 direction='vertical'
                                 slidesPerView={'auto'}
