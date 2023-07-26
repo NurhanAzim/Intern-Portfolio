@@ -17,7 +17,7 @@ export default function ContentDevelopment() {
                         <h3 className="text-3xl py-1 text-red-400">Content Development</h3>
                     </div>
                     <div className="bg-black xl:px-10 lg:flex lg:flex-row lg:flex-wrap gap-10">
-                    <div className="text-center shadow-lg p-5 md:p-10 rounded-xl mt-10 mb-0 bg-gray-800 dark:bg-white flex-1 min-w-[420px] lg:w-auto min-h-[min-content]">
+                    <div className="text-center text-sm md:text-md shadow-lg p-5 md:p-10 rounded-xl mt-10 mb-0 bg-gray-800 dark:bg-white flex-1 min-w-[min-content] lg:w-auto min-h-[min-content]">
                             <Swiper
                                 direction='vertical'
                                 slidesPerView={'auto'}
@@ -25,7 +25,7 @@ export default function ContentDevelopment() {
                                 mousewheel={true}
                                 modules={[FreeMode, Scrollbar, Mousewheel]}>
                                 <SwiperSlide>
-                                    <h4 className='text-2xl text-amber-600'>How To Maximize Brand's Facebook Presence</h4>
+                                    <h4 className='text-lg md:text-2xl text-amber-600'>How To Maximize Brand's Facebook Presence</h4>
                                     <br />
                                     <p className=" text-gray-300 text-start">{'Hello everyone!'}</p>
                                     <br />
@@ -53,7 +53,7 @@ export default function ContentDevelopment() {
                                 </SwiperSlide>
                             </Swiper>
                         </div>
-                        <div className="text-center shadow-lg p-5 md:p-10 rounded-xl mt-10 mb-0 bg-gray-800 dark:bg-white flex-1 min-w-[420px] lg:w-auto min-h-[min-content]">
+                        <div className="text-center text-sm md:text-md shadow-lg p-5 md:p-10 rounded-xl mt-10 mb-0 bg-gray-800 dark:bg-white flex-1 min-w-[min-content] lg:w-auto min-h-[min-content]">
                             <Swiper
                                 direction='vertical'
                                 slidesPerView={'auto'}
@@ -61,7 +61,7 @@ export default function ContentDevelopment() {
                                 mousewheel={true}
                                 modules={[FreeMode, Scrollbar, Mousewheel]}>
                                 <SwiperSlide>
-                                    <h4 className='text-2xl text-amber-600'>Achieving Success Through SEO Content Writing with E-Commerce</h4>
+                                    <h4 className='text-lg md:text-2xl text-amber-600'>Achieving Success Through SEO Content Writing with E-Commerce</h4>
                                     <br />
                                     <p className=' text-gray-300 text-start'>{'Hey there!'}</p>
                                     <br />
@@ -77,7 +77,7 @@ export default function ContentDevelopment() {
                                 </SwiperSlide>
                             </Swiper>
                         </div>
-                        <div className="text-center shadow-lg p-5 md:p-10 rounded-xl mt-10 mb-0 bg-gray-800 dark:bg-white flex-1 min-w-[420px] lg:w-auto min-h-[min-content]">
+                        <div className="text-center text-sm md:text-md shadow-lg p-5 md:p-10 rounded-xl mt-10 mb-0 bg-gray-800 dark:bg-white flex-1 min-w-[min-content] lg:w-auto min-h-[min-content]">
                             <Swiper
                                 direction='vertical'
                                 slidesPerView={'auto'}
@@ -85,7 +85,7 @@ export default function ContentDevelopment() {
                                 mousewheel={true}
                                 modules={[FreeMode, Scrollbar, Mousewheel]}>
                                 <SwiperSlide>
-                                    <h4 className='text-2xl text-amber-600'>Which Social Media Platforms are Best for Your E-commerce Business?</h4>
+                                    <h4 className='text-lg md:text-2xl text-amber-600'>Which Social Media Platforms are Best for Your E-commerce Business?</h4>
                                     <br />
                                     <p className=' text-gray-300 text-start'>{'Welcome, e-commerce entrepreneurs😎'}</p>
                                     <br />
@@ -103,7 +103,7 @@ export default function ContentDevelopment() {
                                 </SwiperSlide>
                             </Swiper>
                         </div>
-                        <div className="text-center shadow-lg p-5 md:p-10 rounded-xl mt-10 mb-0 bg-gray-800 dark:bg-white flex-1 min-w-[420px] lg:w-auto min-h-[min-content]">
+                        <div className="text-center text-sm md:text-md shadow-lg p-5 md:p-10 rounded-xl mt-10 mb-0 bg-gray-800 dark:bg-white flex-1 min-w-[min-content] lg:w-auto min-h-[min-content]">
                             <Swiper
                                 direction='vertical'
                                 slidesPerView={'auto'}
@@ -111,7 +111,7 @@ export default function ContentDevelopment() {
                                 mousewheel={true}
                                 modules={[FreeMode, Scrollbar, Mousewheel]}>
                                 <SwiperSlide>
-                                    <h4 className='text-2xl text-amber-600'>Customer Service Made Easy: 5 Simple Tips</h4>
+                                    <h4 className='text-lg md:text-2xl text-amber-600'>Customer Service Made Easy: 5 Simple Tips</h4>
                                     <br />
                                     <p className=' text-gray-300 text-start'>{'If you run an e-commerce store, you know how important it is to provide excellent customer service. Happy customers can lead to repeat business and positive reviews, while dissatisfied customers can quickly turn to your competitors.'}</p>
                                     <br />
@@ -131,7 +131,7 @@ export default function ContentDevelopment() {
                                 </SwiperSlide>
                             </Swiper>
                         </div>
-                        <div className="text-center shadow-lg p-5 md:p-10 rounded-xl mt-10 mb-0 bg-gray-800 dark:bg-white flex-1 min-w-[420px] lg:w-auto min-h-[min-content]">
+                        <div className="text-center text-sm md:text-md shadow-lg p-5 md:p-10 rounded-xl mt-10 mb-0 bg-gray-800 dark:bg-white flex-1 min-w-[min-content] lg:w-auto min-h-[min-content]">
                             <Swiper
                                 direction='vertical'
                                 slidesPerView={'auto'}
@@ -139,7 +139,7 @@ export default function ContentDevelopment() {
                                 mousewheel={true}
                                 modules={[FreeMode, Scrollbar, Mousewheel]}>
                                 <SwiperSlide>
-                                    <h4 className='text-2xl text-amber-600'>Chatbot dan Privasi Data🤖🔒</h4>
+                                    <h4 className='text-lg md:text-2xl text-amber-600'>Chatbot dan Privasi Data🤖🔒</h4>
                                     <br />
                                     <p className=' text-gray-300 text-start'>{'When we interact with chatbots, we actually provide personal information about ourselves. This includes our name, age, location, and sensitive information like social security numbers or credit card details. Therefore, it is important for us to understand how chatbot developers or businesses handle our data and ensure its safety and security.'}</p>
                                     <br />
@@ -151,7 +151,7 @@ export default function ContentDevelopment() {
                                 </SwiperSlide>
                             </Swiper>
                         </div>
-                        <div className="text-center shadow-lg p-5 md:p-10 rounded-xl mt-10 mb-0 bg-gray-800 dark:bg-white flex-1 min-w-[420px] lg:w-auto min-h-[min-content]">
+                        <div className="text-center text-sm md:text-md shadow-lg p-5 md:p-10 rounded-xl mt-10 mb-0 bg-gray-800 dark:bg-white flex-1 min-w-[min-content] lg:w-auto min-h-[min-content]">
                             <Swiper
                                 direction='vertical'
                                 slidesPerView={'auto'}
@@ -159,7 +159,7 @@ export default function ContentDevelopment() {
                                 mousewheel={true}
                                 modules={[FreeMode, Scrollbar, Mousewheel]}>
                                 <SwiperSlide>
-                                    <h4 className='text-2xl text-amber-600'>Meningkatkan Kepuasan Pengguna Chatbot dengan ‘Personal Touch’👾</h4>
+                                    <h4 className='text-lg md:text-2xl text-amber-600'>Meningkatkan Kepuasan Pengguna Chatbot dengan ‘Personal Touch’👾</h4>
                                     <br />
                                     <p className=' text-gray-300 text-start'>{'Nowadays, chatbots have become a popular choice for many businesses to provide more effective customer service. Chatbots enable businesses to interact with customers quickly and efficiently, while providing accurate and tailored responses to their needs. By utilizing data such as past interactions and user preferences, chatbots can customize their responses to meet individual user requirements.'}</p>
                                     <br />
