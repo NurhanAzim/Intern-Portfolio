@@ -8,7 +8,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-        <section className=" min-h-screen">
+        <section className="">
           <div className="text-center p-3">
             <div className="relative mx-auto mt-5 bg-gradient-to-b from-red-500 to-yellow-400 rounded-full w-60 h-60 overflow-hidden md:h-90 md:w-90">
                <Image  src={"/profile.png"} alt="Avatar picture" layout="fill" objectFit="cover" />

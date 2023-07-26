@@ -8,7 +8,7 @@ export default function Layout({ children }) {
     return (
         <div className={darkMode ? "dark" : ""}>
 
-            <main className="bg-black px-10 dark:bg-black">
+            <main className="min-h-screen bg-black px-10 dark:bg-black">
                 <Navbar />
                 {children}
             </main>
